@@ -1,0 +1,29 @@
+body{
+    background-image: url('./IN-en-20200617-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    
+}
+a{
+    text-decoration: none;
+    color: grey;
+
+}
+a img{
+    width: 134px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.login{
+    position: relative;
+    background-color: black;
+    opacity: 0.8;
+    width: 20rem;
+    height: 35rem;
+    font-size: 1.2rem;
+    padding: 20px;
+    left: 25rem;
+    top: 5rem;
+}
+
